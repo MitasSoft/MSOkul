@@ -27,10 +27,9 @@ namespace Okul
             //cenksv3
             //cenksv5
             //cenksv6
-
             //cenkcv7
-
             //cenksv8
+            //cenkcv9
         }
 
         private void button1_Click(object sender, EventArgs e)
