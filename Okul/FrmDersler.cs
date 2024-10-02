@@ -22,14 +22,7 @@ namespace Okul
         private void FrmDersler_Load(object sender, EventArgs e)
         {
             MessageBox.Show("Git Test");
-            //cenksv1
-            //cenksv2
-            //cenksv3
-            //cenksv5
-            //cenksv6
-            //cenkcv7
-            //cenksv8
-            //cenkcv9
+            //cc1
         }
 
         private void button1_Click(object sender, EventArgs e)
