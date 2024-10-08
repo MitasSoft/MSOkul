@@ -22,7 +22,7 @@ namespace Okul
         private void FrmDersler_Load(object sender, EventArgs e)
         {
             MessageBox.Show("Git Test");
-            //ccg1s
+            //ccg1s v1
         }
 
         private void button1_Click(object sender, EventArgs e)
